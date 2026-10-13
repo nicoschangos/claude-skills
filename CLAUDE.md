@@ -816,6 +816,7 @@ When I correct you, or you catch yourself making a mistake: before continuing ad
 - Before flagging a calculation error in a spreadsheet, read the cell formulas (not just displayed values) — a "double-counted" cost may already be back-divided in its source formula.
 - Treat prices of products not yet received as provisional placeholders; don't draw pricing or cannibalization conclusions from them without confirming with the user.
 - Before proposing a correction to a product spec, check it against the manufacturer's current datasheet — search-snippet specs (e.g. FTC921 "IP41", "0–40 °C with battery") can be wrong or from another revision.
+- Never infer a product attribute (certification, stock, availability) from which documents the user has or hasn't sent; a missing file is not a missing certification, and a badge shown on only some products implies the rest lack it.
 
 ## Additional Resources
 

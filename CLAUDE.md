@@ -818,6 +818,7 @@ When I correct you, or you catch yourself making a mistake: before continuing ad
 - Before proposing a correction to a product spec, check it against the manufacturer's current datasheet — search-snippet specs (e.g. FTC921 "IP41", "0–40 °C with battery") can be wrong or from another revision.
 - Never infer a product attribute (certification, stock, availability) from which documents the user has or hasn't sent; a missing file is not a missing certification, and a badge shown on only some products implies the rest lack it.
 - A manufacturer manual can be wrong too: when it contradicts a spec the user wrote from the physical product (e.g. G900LM 55 vs 300 mAh), flag it and let the user decide instead of overwriting.
+- "Use the style of X" on top of an approved design means palette and logos only: keep the approved layout and never transplant X's format (e.g. a distributor catalog's cards) into a retail website.
 
 ## Additional Resources
 

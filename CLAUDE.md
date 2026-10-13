@@ -813,6 +813,8 @@ When I correct you, or you catch yourself making a mistake: before continuing ad
 ## Lessons
 
 - (Claude adds rules here)
+- Before flagging a calculation error in a spreadsheet, read the cell formulas (not just displayed values) — a "double-counted" cost may already be back-divided in its source formula.
+- Treat prices of products not yet received as provisional placeholders; don't draw pricing or cannibalization conclusions from them without confirming with the user.
 
 ## Additional Resources
 

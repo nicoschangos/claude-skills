@@ -205,8 +205,10 @@ description: Regional lens for a Peru-based electronics company expanding to Mex
 Perú es la base. Cada análisis comercial, de precios o de contenido evalúa también
 los mercados de expansión, salvo que el usuario limite el alcance a un país.
 
-Antes de empezar, lee `references/empresa.md` si existe y tiene datos: rubros,
-márgenes objetivo y países activos mandan sobre los valores por defecto de abajo.
+Antes de empezar, lee el perfil de la empresa: `memoria/empresa.md` del
+repositorio `comercial` si está en la sesión (y sigue su `CLAUDE.md`); si no,
+`references/empresa.md`. Rubros, márgenes objetivo y países activos mandan sobre
+los valores por defecto de abajo.
 
 ## Países y prioridad por defecto
 
